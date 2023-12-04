@@ -1,7 +1,0 @@
-Financial Analysis 
----------------------------- 
-Total Months: 3
-Total: $0
-Average Change: $0.00
-Greatest Increase in Profits: Feb-17 ($0)
-Greatest decrease in Losses: Feb-17 ($0)
